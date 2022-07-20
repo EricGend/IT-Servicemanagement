@@ -1,0 +1,41 @@
+{"/jekyll/update/2022/07/20/welcome-to-jekyll.html": {
+    "title": "Welcome to Jekyll!",
+    "keywords": "jekyll update",
+    "url": "/jekyll/update/2022/07/20/welcome-to-jekyll.html",
+    "body": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk."
+  },"/allgemeines/2022/06/09/Service.html": {
+    "title": "Was ist ein Service?",
+    "keywords": "Allgemeines",
+    "url": "/allgemeines/2022/06/09/Service.html",
+    "body": "Wie definiere ich einen Service Was macht einen Service besonders Was benötige ich für einen Service Wie sieht ein richtiger Service aus (Beispiel bringen) Vorteile eines Services (Wozu muss ich das haben?) Your site is ready to be published at https://ericgend.github.io/ManIT/"
+  },"/allgemeines/2022/06/09/ITIL.html": {
+    "title": "ITIL - IT Infrastucture Library",
+    "keywords": "Allgemeines",
+    "url": "/allgemeines/2022/06/09/ITIL.html",
+    "body": "ITIL wird quasi als Standard für Servicemangement angesehen, wobei dieses vielmehr versucht Erfahrungen zu generalisieren und niederzuschreiben um so Serviceprozesse effizient gestalten zu können. Während viele IT-Abteilungen vermehrt Linienorientiert arbeiten, bedingt ITIL Prozesse. Innerhalb eines Prozesses werden Fährigkeiten und Ressourcen unterschiedlicher Abteilungen an fest definierten Schnittstellen miteinander verbunden, innerhalbd der Linienorientierung wird sich vermehrt auf Fachabteilungen und deren Aufgaben definiert. Der Unterschied ist nochmals in Abbildung 1 dargestellt. Abbildung 1 Linien und Prozesse"
+  },"/allgemeines/2022/06/09/IT-Servicemanagement-Umsetzungsstrategien.html": {
+    "title": "IT-Servicemanagement - Umsetzungsstrategien",
+    "keywords": "Allgemeines",
+    "url": "/allgemeines/2022/06/09/IT-Servicemanagement-Umsetzungsstrategien.html",
+    "body": "Lorem Ipsum Heading"
+  },"/allgemeines/2022/06/09/DevOps.html": {
+    "title": "DevOps",
+    "keywords": "Allgemeines",
+    "url": "/allgemeines/2022/06/09/DevOps.html",
+    "body": "Lorem Ipsum Heading"
+  },"/allgemeines/2022/03/24/IT-Servicemanagement-Allgemeine_Informationen.html": {
+    "title": "IT-Servicemanagement - Allgemeine Informationen",
+    "keywords": "Allgemeines",
+    "url": "/allgemeines/2022/03/24/IT-Servicemanagement-Allgemeine_Informationen.html",
+    "body": "organisierte Bereitstellung von IT-Services um bestmögliche Unterstützung von Geschäftsprozessen zu erreichen bspw.: Change- und Releasemanagement (PC-Austausch, Softwareeinführung); Assetmanagement (Lizenzen, PCs,… verwalten) , Problemmanagement, Incidentmanagment Das Vorgehensmodeel von IT-Servicemanagement ist meist an ITIL mit Einfüssen aus dem DevOps-Bereich. Klassische Vorgehensmodelle innerhalb des IT-Servicemanagements sind wasserfallartig aufgebaut, diese sind in der Praxis jedoch mit vielen Herausforderungen wie stark verteiltes Schnittstellenwissen, geringes involvieren des Managements,verbunden. Doch warum sollte man überhaut IT-Servicemanagement etablieren? Die Vorteile von ITSM (IT-Servicemanagement) sind durch das klare definieren von Zielen und Schnittstellen sowie zugewiesenen Rollen vor allem eine Kosten- und Zeitersparnis. Durch diese zentral angelegte Prozesse können Mitarbeiter stets mit einer gleich hohen Qualität der Servies und des Ablaufes dieser Rechnen. Außerdem entwickelt sich die IT zunehmend zu einem zentralen Erfolgsfaktor innerhalb der Unternehmen, so verändern sich Geschäftsmodelle vom kaufen und besitzen zu Servicemodellen bei denen beispielsweise Filme und Musik gestreamt werden oder eine Kraftumrichtung von Getrieben angemietet wird. Quellen: Wikipedia Topdesk erweiterte Fragen: Was ist mit Serviceprodukten, werden diese auch abgedeckt, kümmert sich darum der Productowner? (Querverbindung Projketmanagement) Was setz ich um je nach Unternehmensgröße? (Leistungskatalog, …) evtl. erstmalauf interne Kuden konzentrieren"
+  },"/allgemeines/2022/03/24/Themenzuordnung.html": {
+    "title": "Themenwahl",
+    "keywords": "Allgemeines",
+    "url": "/allgemeines/2022/03/24/Themenzuordnung.html",
+    "body": "Teilnehmer Wahl 1 Wahl 2 Wahl 3 Andre IT-Strategien &amp; Digitalisierung IT-Controlling IT-Compliance Mohamad IT-Controlling     Jannick IT-Compliance IT-Risikomanagement Ressourcenmanagement Severin Quality Assurance Management + Testmanagement Beschaffungsmanagement + Ressourcemanagement Risikomanagement Thomas IT-Projektmanagement IT - Servicemanagement IT - Risikomanagement Felix IT-Resourcenmanagement(/IT-Beschaffungsmanagement) IT-Risikomanagement(/IT-Sicherheit) IT-Compliance Eric IT-Servicemanagement IT-Programmmanagament (evtl in Verbindung mit Portfoliomanagament und Projektmanagement)   Joshua Quality Assurance Management Personalmanagement   Alle Teilnehmer konnten ein einzigartiges erstes Thema finden WHOOOHOOO Erste Frage was hat das Thema wirklich mit IT zu tun? Nicht von Fragen ausknocken lassen -&gt; Zeit produktiv nutzen Vielleicht erstmal Probelem konstruiieren: “Warum könnte Manager schreiend durch die Abteilung rennen: ‘WIR BRAUCHEN JETZT SERVIEMANAGEMENT!!’” Was bauen, damit was hängen bleibt."
+  },"/": {
+    "title": "Welcome to Jekyll!",
+    "keywords": "jekyll update",
+    "url": "/",
+    "body": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk."
+  }}
