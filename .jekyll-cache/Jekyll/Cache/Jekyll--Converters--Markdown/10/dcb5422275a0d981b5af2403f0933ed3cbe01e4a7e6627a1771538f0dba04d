@@ -1,0 +1,55 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Teilnehmer</th>
+      <th>Wahl 1</th>
+      <th>Wahl 2</th>
+      <th>Wahl 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Andre</td>
+      <td><strong>IT-Strategien &amp; Digitalisierung</strong></td>
+      <td>IT-Controlling</td>
+      <td>IT-Compliance</td>
+    </tr>
+    <tr>
+      <td>Mohamad</td>
+      <td><strong>IT-Controlling</strong></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Jannick</td>
+      <td><strong>IT-Compliance</strong></td>
+      <td>IT-Risikomanagement</td>
+      <td>Ressourcenmanagement</td>
+    </tr>
+    <tr>
+      <td>Severin</td>
+      <td><strong>Quality Assurance Management + Testmanagement</strong></td>
+      <td>Beschaffungsmanagement + Ressourcemanagement</td>
+      <td>Risikomanagement</td>
+    </tr>
+    <tr>
+      <td>Thomas</td>
+      <td><strong>IT - Projektmanagement</strong></td>
+      <td>IT - Servicemanagement</td>
+      <td>IT - Risikomanagement</td>
+    </tr>
+    <tr>
+      <td>Felix</td>
+      <td><strong>IT-Retourenmanagement(/IT-Beschaffungsmanagement)</strong></td>
+      <td>IT-Risikomanagement(/IT-Sicherheit)</td>
+      <td>IT-Compliance</td>
+    </tr>
+    <tr>
+      <td>Eric</td>
+      <td><strong>IT-Servicemanagement</strong></td>
+      <td>IT-Programmmanagament (evtl in Verbindung mit Portfoliomanagament und Projektmanagement)</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+:ET
