@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title:  "Themenwahl"
 date:   2022-03-24 20:13:48 +0100
 categories: Allgemeines
