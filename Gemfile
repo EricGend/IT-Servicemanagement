@@ -36,3 +36,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 #adding custome style 
 gem 'jekyll-include-cache'
 gem "minimal-mistakes-jekyll"
+
+gem "webrick", "~> 1.7"

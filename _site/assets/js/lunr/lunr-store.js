@@ -6,21 +6,33 @@ var store = [{
         "teaser": null
       },{
         "title": "Themenwahl",
-        "excerpt":"Teilnehmer Wahl 1 Wahl 2 Wahl 3 Andre IT-Strategien &amp; Digitalisierung IT-Controlling IT-Compliance Mohamad IT-Controlling     Jannick IT-Compliance IT-Risikomanagement Ressourcenmanagement Severin Quality Assurance Management + Testmanagement Beschaffungsmanagement + Ressourcemanagement Risikomanagement Thomas IT - Projektmanagement IT - Servicemanagement IT - Risikomanagement Felix IT-Retourenmanagement(/IT-Beschaffungsmanagement) IT-Risikomanagement(/IT-Sicherheit) IT-Compliance Eric IT-Servicemanagement IT-Programmmanagament (evtl in...","categories": ["Allgemeines"],
+        "excerpt":"Teilnehmer Wahl 1 Wahl 2 Wahl 3 Andre IT-Strategien &amp; Digitalisierung IT-Controlling IT-Compliance Mohamad IT-Controlling     Jannick IT-Compliance IT-Risikomanagement Ressourcenmanagement Severin Quality Assurance Management + Testmanagement Beschaffungsmanagement + Ressourcemanagement Risikomanagement Thomas IT-Projektmanagement IT - Servicemanagement IT - Risikomanagement Felix IT-Resourcenmanagement(/IT-Beschaffungsmanagement) IT-Risikomanagement(/IT-Sicherheit) IT-Compliance Eric IT-Servicemanagement IT-Programmmanagament (evtl in Verbindung mit...","categories": ["Allgemeines"],
         "tags": [],
         "url": "/allgemeines/2022/03/24/Themenzuordnung.html",
         "teaser": null
       },{
-        "title": "IT-Programmmanagement",
-        "excerpt":"zusammenfassen mehrerer Projekte, die Abhängigkeiten untereinander haben Beispiel: Einführung von 5 Apps ( App = Projekt, Zusammenhängend = Programm) diese Projekte haben übergeordnetes Ziel Programm = Hauptprojekt mit mehreren Unterprojekten Unterschied Portfolio-, Programm-, Projekt-, Multiprojektmanagement Aufgaben: Definition von Programmen zur Erfüllung strategischer Ziele Projekte für Programme initiieren beantragte Projekte beurteilen...","categories": ["Allgemeines"],
+        "title": "IT-Servicemanagement - Allgemeine Informationen",
+        "excerpt":"organisierte Bereitstellung von IT-Services um bestmögliche Unterstützung von Geschäftsprozessen zu erreichen bspw.: Change- und Releasemanagement (PC-Austausch, Softwareeinführung); Assetmanagement (Lizenzen, PCs,… verwalten) , Problemmanagement, Incidentmanagment Das Vorgehensmodeel von IT-Servicemanagement ist meist an ITIL mit Einfüssen aus dem DevOps-Bereich. Klassische Vorgehensmodelle innerhalb des IT-Servicemanagements sind wasserfallartig aufgebaut, diese sind in der Praxis...","categories": ["Allgemeines"],
         "tags": [],
-        "url": "/allgemeines/2022/03/24/IT-Programmmanagement.html",
+        "url": "/allgemeines/2022/03/24/IT-Servicemanagement-Allgemeine_Informationen.html",
         "teaser": null
       },{
-        "title": "IT-Servicemanagement",
-        "excerpt":"        organisierte Bereitstellung von IT-Services um bestmögliche Unterstützung von Geschäftsprozessen zu erreichen            bspw.: Change- und Releasemanagement (PC-Austausch, Softwareeinführung); Assetmanagement (Lizenzen, Pcs,… verwalten) , Problemmanagement, Incidentmanagment       Quellen:  Wikipedia Topdesk  ","categories": ["Allgemeines"],
+        "title": "DevOps",
+        "excerpt":"Lorem Ipsum   Heading  ","categories": ["Allgemeines"],
         "tags": [],
-        "url": "/allgemeines/2022/03/24/IT-Servicemanagement.html",
+        "url": "/allgemeines/2022/06/09/DevOps.html",
+        "teaser": null
+      },{
+        "title": "IT-Servicemanagement - Umsetzungsstrategien",
+        "excerpt":"Lorem Ipsum   Heading  ","categories": ["Allgemeines"],
+        "tags": [],
+        "url": "/allgemeines/2022/06/09/IT-Servicemanagement-Umsetzungsstrategien.html",
+        "teaser": null
+      },{
+        "title": "ITIL - IT Infrastucture Library",
+        "excerpt":"ITIL wird quasi als Standard für Servicemangement angesehen, wobei dieses vielmehr versucht Erfahrungen zu generalisieren und niederzuschreiben um so Serviceprozesse effizient gestalten zu können. Während viele IT-Abteilungen vermehrt Linienorientiert arbeiten, bedingt ITIL Prozesse. Innerhalb eines Prozesses werden Fährigkeiten und Ressourcen unterschiedlicher Abteilungen an fest definierten Schnittstellen miteinander verbunden, innerhalbd der...","categories": ["Allgemeines"],
+        "tags": [],
+        "url": "/allgemeines/2022/06/09/ITIL.html",
         "teaser": null
       },{
         "title": "Was ist ein Service?",
