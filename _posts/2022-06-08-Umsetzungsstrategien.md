@@ -18,7 +18,7 @@ In Projekten zur Einfühung von ITIL wird selten bei 0 gestartet. Infolge dessen
 Besser ist es vorhandene Ressourcen und Wissen bei der Gestaltung von Veränderungen zu nutzen. Hierfür ist es ratsam einen objektiven Blick auf bereits Bestehendes zu werfen und möglichst unvoreingenommen zu bewerten was bereits gut und was nicht so gut funktioniert.
 
 ## Progress iteratively with feedback
-Iterationen von Veränderungen erhöhen die Nutzerakzeptanz. So ist es besser in kleineren Iteratiopnen zu arbeiten und Nutzerfeedback direkt einzuhgolen. Hierdurch kann schnell auf Nutzerwünschen eingeganegn werden und Ergebnisse schnell erzielt werden. Dies ist außerdem im Einklan mit dem Value Co-Creation, beschrieben unter [ITIL]({% post_url 2022-06-08-ITIL %}).
+Iterationen von Veränderungen erhöhen die Nutzerakzeptanz. So ist es besser in kleineren Iteratiopnen zu arbeiten und Nutzerfeedback direkt einzuhgolen. Hierdurch kann schnell auf Nutzerwünschen eingeganegn werden und Ergebnisse schnell erzielt werden. Dies ist außerdem im Einklan mit dem Value Co-Creation, beschrieben unter [ITIL]({% post_url 2022-06-07-ITIL %}).
 
 ## Collaborate and promote visibility
 Existieren über Abteilungen hinweg Grenzen, so sollten diese frühstmöglich aufgebrochen werden um die Erfolgschancen zu maximieren. Das Involvieren von Beteiligten und Betroffenen bei der Umsetzung von ITIL ist Kernbestandteil in Prozess- und Servic-Denken.
