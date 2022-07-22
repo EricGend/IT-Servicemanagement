@@ -3,6 +3,7 @@ layout: post
 title:  "Der Servicemanager"
 date:   2022-03-24 21:44:00 +0100
 categories: Allgemeines
+permalink: Servicemanager
 ---
 
 Der Berufsalltag eines IT-Servicemanagers ist vielschichtig, zu seinen Aufgaben zählt das erstellen, monitoren und betreuen von allen IT-gestützten Geschäftsprozesses. Hierbei muss der IT-Servicemanager zwischen der Welt der IT und der Bussinessseite vermitteln. 

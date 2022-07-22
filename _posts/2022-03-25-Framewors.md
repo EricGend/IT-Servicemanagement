@@ -2,6 +2,7 @@
 layout: post
 title:  "Frameworks"
 date:   2022-03-24 21:44:00 +0100
+permalink: /Frameworks
 categories: Allgemeines
 ---
 

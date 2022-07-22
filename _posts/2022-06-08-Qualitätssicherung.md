@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DevOps"
+title:  "Servicequalität messen"
 date:   2022-06-09 16:35:00 +0100
+permalink: /Qualität-messen
 categories: Allgemeines
-permalink: DevOps
 ---
 
 Lorem Ipsum
 
 ### Heading
+
+Buch Seite 52
