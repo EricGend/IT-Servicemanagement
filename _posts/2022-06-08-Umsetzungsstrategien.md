@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IT-Servicemanagement - Umsetzungsstrategien"
+title:  "Umsetzungsstrategien"
 date:   2022-06-09 16:35:00 +0100
 categories: Allgemeines
 ---
@@ -8,3 +8,5 @@ categories: Allgemeines
 Lorem Ipsum
 
 ### Heading
+
+Buch Seite 52
