@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Dieser Blog bietet den perfekten Einstieg für jeden frisch ernannten IT-Servicemanager, nicht nur werden wichtige Teilbereiche verständlich dargelegt,auch wird ein Leitfaden angeboten zur optimalen Umsetzung des Servicemanagements innerhalb eines Unternehmens. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Der Blog ist im Rahmen des Moduls Management ind er IT an der Hochschule Coburg im Sommersemester 2022 entstanden.

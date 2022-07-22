@@ -21,7 +21,8 @@
 title: IT-Servicemanagement
 email: eric.gendner@stud.hs-coburg.de
 description: >- # this means to ignore newlines until "baseurl:"
-Dieser Blog bietet den perfekten Einstieg für jeden frisch ernannten IT-Servicemanager, nicht nur werden wichtige Teilbereiche verständlich dargelegt,auch wird ein Leitfaden angeboten zur optimalen Umsetzung des Servicemanagements innerhalb eines Unternehmens. 
+  Dieser Blog bietet den perfekten Einstieg für jeden frisch ernannten IT-Servicemanager, nicht nur werden wichtige Teilbereiche verständlich dargelegt,
+  auch wird ein Leitfaden angeboten zur optimalen Umsetzung des Servicemanagements innerhalb eines Unternehmens. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: noTwitterAtAll

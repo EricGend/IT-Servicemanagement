@@ -33,13 +33,3 @@ Klassische Vorgehensmodelle innerhalb des IT-Servicemanagements sind wasserfalla
 Doch warum sollte man überhaut IT-Servicemanagement etablieren? 
 Die Vorteile von ITSM (IT-Servicemanagement) sind durch das klare definieren von Zielen und Schnittstellen sowie zugewiesenen Rollen vor allem eine Kosten- und Zeitersparnis. Durch diese zentral angelegte Prozesse können Mitarbeiter stets mit einer gleich hohen Qualität der Servies und des Ablaufes dieser Rechnen. 
 Außerdem entwickelt sich die IT zunehmend zu einem zentralen Erfolgsfaktor innerhalb der Unternehmen, so verändern sich Geschäftsmodelle vom kaufen und besitzen zu Servicemodellen bei denen beispielsweise Filme und Musik gestreamt werden oder eine Kraftumrichtung von Getrieben angemietet wird. 
-
-Quellen: 
-[Wikipedia](https://de.wikipedia.org/wiki/IT-Service-Management)
-[Topdesk](https://www.topdesk.com/de/glossar/was-ist-itsm/)
-
-erweiterte Fragen: Was ist mit Serviceprodukten, werden diese auch abgedeckt, kümmert sich darum der Productowner? (Querverbindung Projketmanagement) 
-
-Was setz ich um je nach Unternehmensgröße? (Leistungskatalog, ...)
-
-evtl. erstmalauf interne Kuden konzentrieren
